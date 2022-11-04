@@ -1,4 +1,5 @@
 // To  check prime num.
+let abc=" foundation ka sabse badiya pgal "
 var num = 13;
 var count = 0;
 for (var i = 1; i <= num; i++) {
@@ -12,3 +13,4 @@ if (count == 1) {
   console.log("It is not a prime number");
 }
 // please find error in my code
+
