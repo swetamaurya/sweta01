@@ -11,6 +11,7 @@ if (count == 1) {
   console.log("It is a prime number");
 } else {
   console.log("It is not a prime number");
+  console.log("sweta");
 }
 // please find error in my code
 
